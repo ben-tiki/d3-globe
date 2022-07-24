@@ -1,5 +1,6 @@
-#map > svg > g > g > path.country_China 
-{fill: #ff0000;}	
+#map > svg > g > g > path.country_China {
+    fill: #ff0000
+}	
 
 #map > svg > g > g > path.country_India 
 {fill: #ff0101;}	
