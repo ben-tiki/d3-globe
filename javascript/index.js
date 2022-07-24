@@ -77,6 +77,28 @@ data.then(function(data) {
 
     let map = svg.append("g")
 
+    // add tootltip styling
+    let tooltip = d3.select("#map")
+    .append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0)
+    .style("position", "absolute")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
+    .style("pointer-events", "none")
+    .style("font-size", "12px")
+    .style("font-family", "sans-serif")
+    .style("text-align", "center")
+    .style("width", "150px")
+    .style("height", "100px")
+    .style("left", "50px")
+    .style("top", "50px")
+    .style("display", "none")
+    .style("z-index", "1")
+
     // appending each country to the map
     map.append("g")
     .attr("class", "countries" )
@@ -98,30 +120,7 @@ data.then(function(data) {
         tooltip.transition()
         .duration(200)
         .style("opacity", 1)
-
-        // add tootltip styling
-        let tooltip = d3.select("#map")
-        .append("div")
-        .attr("class", "tooltip")
-        .style("opacity", 0)
-        .style("position", "absolute")
-        .style("background-color", "white")
-        .style("border", "solid")
-        .style("border-width", "1px")
-        .style("border-radius", "5px")
-        .style("padding", "5px")
-        .style("pointer-events", "none")
-        .style("font-size", "12px")
-        .style("font-family", "sans-serif")
-        .style("text-align", "center")
-        .style("width", "150px")
-        .style("height", "100px")
-        .style("left", "50px")
-        .style("top", "50px")
-        .style("display", "none")
-        .style("z-index", "1")
                 
-        
         // setting up tooltip
         tooltip.style("display", "block")
         tooltip.style("left", d3.event.pageX + "px")
