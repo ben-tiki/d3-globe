@@ -1,0 +1,210 @@
+rank,country,population,area,population_density
+1,China,"1,43 billion",9706961,1425887337
+2,India,"1,42 billion",3287590,1417173173
+3,United States,"275,5 million",9372610,338289857
+4,Indonesia,"235,82 million",1904569,275501339
+5,Pakistan,"218,54 million",881912,235824862
+6,Nigeria,"215,31 million",923768,218541212
+7,Brazil,"171,19 million",8515767,215313498
+8,Bangladesh,"144,71 million",147570,171186372
+9,Russia,"127,5 million",17098242,144713314
+10,Mexico,"123,95 million",1964375,127504125
+11,Japan,"123,38 million",377930,123951692
+12,Ethiopia,"115,56 million",1104300,123379924
+13,Philippines,"110,99 million",342353,115559009
+14,Egypt,"99,01 million",1002450,110990103
+15,DR Congo,"98,19 million",2344858,99010212
+16,Vietnam,"88,55 million",331212,98186856
+17,Iran,"85,34 million",1648195,88550570
+18,Turkey,"83,37 million",783562,85341241
+19,Germany,"71,7 million",357114,83369843
+20,Thailand,"67,51 million",513120,71697030
+21,United Kingdom,"65,5 million",242900,67508936
+22,Tanzania,"64,63 million",945087,65497748
+23,France,"59,89 million",551695,64626628
+24,South Africa,"59,04 million",1221037,59893885
+25,Italy,"57,37 million",301336,59037474
+26,England,"54,18 million",130279,57367811
+27,Myanmar,"54,03 million",676578,54179306
+28,Kenya,"51,87 million",580367,54027487
+29,Colombia,"51,82 million",1141748,51874024
+30,South Korea,"47,56 million",100210,51815810
+31,Spain,"47,25 million",505992,47558630
+32,Uganda,"46,87 million",241550,47249585
+33,Sudan,"45,51 million",1886068,46874204
+34,Argentina,"44,9 million",2780400,45510318
+35,Algeria,"44,5 million",2381741,44903225
+36,Iraq,"41,13 million",438317,44496122
+37,Afghanistan,"39,86 million",652230,41128771
+38,Poland,"39,7 million",312679,39857145
+39,Ukraine,"38,45 million",603500,39701739
+40,Canada,"37,46 million",9984670,38454327
+41,Morocco,"36,41 million",446550,37457971
+42,Saudi Arabia,"35,59 million",2149690,36408820
+43,Angola,"34,63 million",1246700,35588987
+44,Uzbekistan,"34,05 million",447400,34627652
+45,Peru,"33,94 million",1285216,34049588
+46,Malaysia,"33,7 million",330803,33938221
+47,Yemen,"33,48 million",527968,33696614
+48,Ghana,"32,97 million",238533,33475870
+49,Mozambique,"30,55 million",801590,32969518
+50,Nepal,"29,61 million",147181,30547580
+51,Madagascar,"28,3 million",587041,29611714
+52,Venezuela,"28,16 million",916445,28301696
+53,Ivory Coast,"27,91 million",322463,28160542
+54,Cameroon,"26,21 million",475442,27914536
+55,Niger,"26,18 million",1267000,26207977
+56,Australia,"26,07 million",7692024,26177413
+57,North Korea,"23,89 million",120538,26069416
+58,Taiwan,"22,67 million",36193,23893394
+59,Burkina Faso,"22,59 million",272967,22673762
+60,Mali,"22,13 million",1240192,22593590
+61,Syria,"21,83 million",185180,22125249
+62,Sri Lanka,"20,41 million",65610,21832143
+63,Malawi,"20,02 million",118484,20405317
+64,Zambia,"19,66 million",752612,20017675
+65,Romania,"19,6 million",238391,19659267
+66,Chile,"19,4 million",756102,19603733
+67,Kazakhstan,18 million,2724900,19397998
+68,Ecuador,"17,84 million",276841,18001000
+69,Guatemala,"17,72 million",108889,17843908
+70,Chad,"17,6 million",1284000,17723315
+71,Somalia,"17,56 million",637657,17597511
+72,Netherlands,"17,32 million",41850,17564014
+73,Senegal,"16,77 million",196722,17316449
+74,Cambodia,"16,32 million",181035,16767842
+75,Zimbabwe,"13,86 million",390757,16320537
+76,Guinea,"13,78 million",245857,13859341
+77,Rwanda,"13,35 million",26338,13776698
+78,Benin,"12,89 million",112622,13352864
+79,Burundi,"12,36 million",27834,12889576
+80,Tunisia,"12,22 million",163610,12356117
+81,Bolivia,"11,66 million",1098581,12224110
+82,Belgium,"11,58 million",30528,11655930
+83,Haiti,"11,29 million",27750,11584996
+84,Jordan,"11,23 million",89342,11285869
+85,Dominican Republic,"11,21 million",48671,11228821
+86,Cuba,"10,91 million",109884,11212191
+87,South Sudan,"10,55 million",619745,10913164
+88,Sweden,"10,49 million",450295,10549347
+89,Czech Republic,"10,43 million",78865,10493986
+90,Honduras,"10,38 million",112492,10432860
+91,Greece,"10,36 million",131990,10384971
+92,Azerbaijan,"10,27 million",86600,10358074
+93,Portugal,"10,14 million",92090,10270865
+94,Papua New Guinea,"9,97 million",462840,10142619
+95,Hungary,"9,95 million",93028,9967308
+96,Tajikistan,"9,53 million",143100,9952787
+97,Belarus,"9,44 million",207600,9534954
+98,United Arab Emirates,"9,04 million",83600,9441129
+99,Israel,"8,94 million",20770,9038309
+100,Austria,"8,85 million",83871,8939617
+101,Togo,"8,74 million",56785,8848699
+102,Switzerland,"8,61 million",41284,8740472
+103,Sierra Leone,"7,53 million",71740,8605718
+104,Laos,"7,49 million",236800,7529475
+105,Hong Kong,"7,22 million",1104,7488865
+106,Serbia,"6,95 million",88361,7221365
+107,Nicaragua,"6,81 million",130373,6948392
+108,Libya,"6,78 million",1759540,6812341
+109,Bulgaria,"6,78 million",110879,6781953
+110,Paraguay,"6,63 million",406752,6780744
+111,Kyrgyzstan,"6,43 million",199951,6630623
+112,Turkmenistan,"6,34 million",488100,6430770
+113,El Salvador,"5,98 million",21041,6336392
+114,Singapore,"5,97 million",710,5975689
+115,Republic of the Congo,"5,88 million",342000,5970424
+116,Denmark,"5,64 million",43094,5882261
+117,Slovakia,"5,58 million",49037,5643453
+118,Central African Republic,"5,54 million",622984,5579144
+119,Finland,"5,5 million",338424,5540745
+120,Scotland,"5,49 million",77933,5504651
+121,Lebanon,"5,43 million",10452,5489739
+122,Norway,"5,3 million",323802,5434319
+123,Liberia,"5,25 million",111369,5302681
+124,Palestine,"5,19 million",6220,5250072
+125,New Zealand,"5,18 million",270467,5185288
+126,Costa Rica,"5,02 million",51100,5180829
+127,Ireland,"4,74 million",70273,5023109
+128,Mauritania,"4,58 million",1030700,4736139
+129,Oman,"4,41 million",309500,4576298
+130,Panama,"4,27 million",75417,4408581
+131,Kuwait,"4,03 million",17818,4268873
+132,Croatia,"3,74 million",56594,4030358
+133,Georgia,"3,68 million",69700,3744385
+134,Eritrea,"3,42 million",117600,3684032
+135,Uruguay,"3,4 million",181034,3422794
+136,Mongolia,"3,27 million",1564110,3398366
+137,Moldova,"3,25 million",33846,3272996
+138,Puerto Rico,"3,23 million",8870,3252407
+139,Bosnia And Herzegovina,"3,19 million",51209,3233526
+140,Wales,"2,84 million",20779,3193665
+141,Albania,"2,83 million",28748,2842321
+142,Jamaica,"2,78 million",10991,2827377
+143,Armenia,"2,75 million",29743,2780469
+144,Lithuania,"2,71 million",65300,2750055
+145,Gambia,"2,7 million",10689,2705992
+146,Qatar,"2,63 million",11586,2695122
+147,Botswana,"2,57 million",582000,2630296
+148,Namibia,"2,39 million",825615,2567012
+149,Gabon,"2,31 million",267668,2388992
+150,Lesotho,"2,12 million",30355,2305825
+151,Slovenia,"2,11 million",20273,2119844
+152,Guinea Bissau,"2,09 million",36125,2105566
+153,North Macedonia,"1,85 million",25713,2093599
+154,Latvia,"1,8 million",64559,1850651
+155,Kosovo,"1,67 million",10887,1802250
+156,Equatorial Guinea,"1,53 million",28051,1674908
+157,Trinidad And Tobago,"1,47 million",5130,1531044
+158,Bahrain,"1,34 million",765,1472233
+159,Timor Leste,"1,33 million",14874,1341296
+160,Estonia,"1,3 million",45227,1326062
+161,Mauritius,"1,25 million",2040,1299469
+162,Cyprus,"1,2 million",9251,1251488
+163,Eswatini,"1,12 million",17364,1201670
+164,Djibouti,"1,12 million",23200,1120849
+165,Reunion,"974,05 thousand",2511,974052
+166,Fiji,"929,77 thousand",18272,929766
+167,Comoros,"836,77 thousand",1862,836774
+168,Guyana,"808,73 thousand",214969,808726
+169,Bhutan,"782,46 thousand",38394,782455
+170,Solomon Islands,"724,27 thousand",28896,724273
+171,Luxembourg,"647,6 thousand",2586,647599
+172,Montenegro,"627,08 thousand",13812,627082
+173,Suriname,"618,04 thousand",163820,618040
+174,Cape Verde,"593,15 thousand",4033,593149
+175,Western Sahara,"575,99 thousand",266000,575986
+176,Malta,"533,29 thousand",316,533286
+177,Maldives,"523,79 thousand",300,523787
+178,Brunei,449 thousand,5765,449002
+179,Bahamas,"409,98 thousand",13943,409984
+180,Belize,"405,27 thousand",22966,405272
+181,Guadeloupe,"395,75 thousand",1628,395752
+182,Iceland,"372,9 thousand",103000,372899
+183,Martinique,"367,51 thousand",1128,367507
+184,Vanuatu,"326,74 thousand",12189,326740
+185,Mayotte,"326,1 thousand",374,326101
+186,French Guiana,"304,56 thousand",83534,304557
+187,Barbados,"281,64 thousand",430,281635
+188,Sao Tome And Principe,"227,38 thousand",964,227380
+189,Samoa,"222,38 thousand",2842,222382
+190,Saint Lucia,"179,86 thousand",616,179857
+191,Kiribati,"131,23 thousand",811,131232
+192,Grenada,"125,44 thousand",344,125438
+193,Micronesia,"114,16 thousand",702,114164
+194,Seychelles,"107,12 thousand",452,107118
+195,Tonga,"106,86 thousand",747,106858
+196,Saint Vincent And the Grenadines,"103,95 thousand",389,103948
+197,Antigua And Barbuda,"93,76 thousand",442,93763
+198,Andorra,"79,82 thousand",468,79824
+199,Dominica,"72,74 thousand",751,72737
+200,Greenland,"56,47 thousand",2166086,56466
+201,Saint Kitts And Nevis,"47,66 thousand",261,47657
+202,Marshall Islands,"41,57 thousand",181,41569
+203,Liechtenstein,"39,33 thousand",160,39327
+204,Monaco,"36,47 thousand",2,36469
+205,San Marino,"33,66 thousand",61,33660
+206,Palau,"18,06 thousand",459,18055
+207,Nauru,"12,67 thousand",21,12668
+208,Tuvalu,"11,31 thousand",26,11312
+209,Vatican City,510,1,510
