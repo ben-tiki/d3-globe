@@ -3,3 +3,1885 @@ h1 { font-family: 'Enriqueta',
      margin: 0 0 10px; 
      font-size: 30px; 
      font-weight: bold; }
+
+#map > svg > g > g > path.country_China {
+fill: #ff0000
+}	
+
+#map > svg > g > g > path.country_India 
+{fill: #ff0101;}	
+
+#map > svg > g > g > path.country_United States 
+{fill: #ffc2c2;}	
+
+#map > svg > g > g > path.country_Indonesia 
+{fill: #ffcdcd;}	
+
+#map > svg > g > g > path.country_Pakistan 
+{fill: #ffd4d4;}	
+
+#map > svg > g > g > path.country_Nigeria 
+{fill: #ffd7d7;}	
+
+#map > svg > g > g > path.country_Brazil 
+{fill: #ffd8d8;}	
+
+#map > svg > g > g > path.country_Bangladesh 
+{fill: #ffe0e0;}	
+
+#map > svg > g > g > path.country_Russia 
+{fill: #ffe5e5;}	
+
+#map > svg > g > g > path.country_Mexico 
+{fill: #ffe8e8;}	
+
+#map > svg > g > g > path.country_Japan 
+{fill: #ffe9e9;}	
+
+#map > svg > g > g > path.country_Ethiopia 
+{fill: #ffe9e9;}	
+
+#map > svg > g > g > path.country_Philippines 
+{fill: #ffeaea;}	
+
+#map > svg > g > g > path.country_Egypt 
+{fill: #ffebeb;}	
+
+#map > svg > g > g > path.country_DR Congo 
+{fill: #ffeded;}	
+
+#map > svg > g > g > path.country_Vietnam 
+{fill: #ffeded;}	
+
+#map > svg > g > g > path.country_Iran 
+{fill: #ffefef;}	
+
+#map > svg > g > g > path.country_Turkey 
+{fill: #ffefef;}	
+
+#map > svg > g > g > path.country_Germany 
+{fill: #fff0f0;}	
+
+#map > svg > g > g > path.country_Thailand 
+{fill: #fff2f2;}	
+
+#map > svg > g > g > path.country_United Kingdom 
+{fill: #fff3f3;}	
+
+#map > svg > g > g > path.country_Tanzania 
+{fill: #fff3f3;}	
+
+#map > svg > g > g > path.country_France 
+{fill: #fff3f3;}	
+
+#map > svg > g > g > path.country_South Africa 
+{fill: #fff4f4;}	
+
+#map > svg > g > g > path.country_Italy 
+{fill: #fff4f4;}	
+
+#map > svg > g > g > path.country_England 
+{fill: #fff4f4;}	
+
+#map > svg > g > g > path.country_Myanmar 
+{fill: #fff5f5;}	
+
+#map > svg > g > g > path.country_Kenya 
+{fill: #fff5f5;}	
+
+#map > svg > g > g > path.country_Colombia 
+{fill: #fff5f5;}	
+
+#map > svg > g > g > path.country_South Korea 
+{fill: #fff5f5;}	
+
+#map > svg > g > g > path.country_Spain 
+{fill: #fff6f6;}	
+
+#map > svg > g > g > path.country_Uganda 
+{fill: #fff6f6;}	
+
+#map > svg > g > g > path.country_Sudan 
+{fill: #fff6f6;}	
+
+#map > svg > g > g > path.country_Argentina 
+{fill: #fff7f7;}	
+
+#map > svg > g > g > path.country_Algeria 
+{fill: #fff7f7;}	
+
+#map > svg > g > g > path.country_Iraq 
+{fill: #fff7f7;}	
+
+#map > svg > g > g > path.country_Afghanistan 
+{fill: #fff7f7;}	
+
+#map > svg > g > g > path.country_Poland 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Ukraine 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Canada 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Morocco 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Saudi Arabia 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Angola 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Uzbekistan 
+{fill: #fff8f8;}	
+
+#map > svg > g > g > path.country_Peru 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Malaysia 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Yemen 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Ghana 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Mozambique 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Nepal 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Madagascar 
+{fill: #fff9f9;}	
+
+#map > svg > g > g > path.country_Venezuela 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Ivory Coast 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Cameroon 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Niger 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Australia 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_North Korea 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Taiwan 
+{fill: #fffafa;}	
+
+#map > svg > g > g > path.country_Burkina Faso 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Mali 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Syria 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Sri Lanka 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Malawi 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Zambia 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Romania 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Chile 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Kazakhstan 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Ecuador 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Guatemala 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Chad 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Somalia 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Netherlands 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Senegal 
+{fill: #fffbfb;}	
+
+#map > svg > g > g > path.country_Cambodia 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Zimbabwe 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Guinea 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Rwanda 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Benin 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Burundi 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Tunisia 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Bolivia 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Belgium 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Haiti 
+{fill: #fffcfc;}	
+
+#map > svg > g > g > path.country_Jordan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Dominican Republic 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Cuba 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_South Sudan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Sweden 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Czech Republic 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Honduras 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Greece 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Azerbaijan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Portugal 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Papua New Guinea 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Hungary 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Tajikistan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Belarus 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_United Arab Emirates 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Israel 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Austria 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Togo 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Switzerland 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Sierra Leone 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Laos 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Hong Kong 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Serbia 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Nicaragua 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Libya 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Bulgaria 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Paraguay 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Kyrgyzstan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Turkmenistan 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_El Salvador 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Singapore 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Republic of the Congo 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Denmark 
+{fill: #fffdfd;}	
+
+#map > svg > g > g > path.country_Slovakia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Central African Republic 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Finland 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Scotland 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Lebanon 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Norway 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Liberia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Palestine 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_New Zealand 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Costa Rica 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Ireland 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Mauritania 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Oman 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Panama 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Kuwait 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Croatia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Georgia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Eritrea 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Uruguay 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Mongolia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Moldova 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Puerto Rico 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Bosnia And Herzegovina 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Wales 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Albania 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Jamaica 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Armenia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Lithuania 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Gambia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Qatar 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Botswana 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Namibia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Gabon 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Lesotho 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Slovenia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Guinea Bissau 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_North Macedonia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Latvia 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Kosovo 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Equatorial Guinea 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Trinidad And Tobago 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Bahrain 
+{fill: #fffefe;}	
+
+#map > svg > g > g > path.country_Timor Leste 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Estonia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mauritius 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cyprus 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Eswatini 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Djibouti 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Reunion 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Fiji 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Comoros 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guyana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bhutan 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Solomon Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Luxembourg 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Montenegro 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Suriname 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cape Verde 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Western Sahara 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Malta 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Maldives 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Brunei 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bahamas 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Belize 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guadeloupe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Iceland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Martinique 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vanuatu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mayotte 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_French Guiana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Barbados 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Sao Tome And Principe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Samoa 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Lucia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Kiribati 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Grenada 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Micronesia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Seychelles 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tonga 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Vincent And the Grenadines 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Antigua And Barbuda 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Andorra 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Dominica 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Greenland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Kitts And Nevis 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Marshall Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Liechtenstein 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Monaco 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_San Marino 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Palau 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Nauru 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tuvalu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vatican City 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_China 
+{fill: #8b0000;}	
+
+#map > svg > g > g > path.country_India 
+{fill: #8b0101;}	
+
+#map > svg > g > g > path.country_United States 
+{fill: #e3c2c2;}	
+
+#map > svg > g > g > path.country_Indonesia 
+{fill: #e8cdcd;}	
+
+#map > svg > g > g > path.country_Pakistan 
+{fill: #ebd4d4;}	
+
+#map > svg > g > g > path.country_Nigeria 
+{fill: #edd7d7;}	
+
+#map > svg > g > g > path.country_Brazil 
+{fill: #edd8d8;}	
+
+#map > svg > g > g > path.country_Bangladesh 
+{fill: #f1e0e0;}	
+
+#map > svg > g > g > path.country_Russia 
+{fill: #f3e5e5;}	
+
+#map > svg > g > g > path.country_Mexico 
+{fill: #f4e8e8;}	
+
+#map > svg > g > g > path.country_Japan 
+{fill: #f5e9e9;}	
+
+#map > svg > g > g > path.country_Ethiopia 
+{fill: #f5e9e9;}	
+
+#map > svg > g > g > path.country_Philippines 
+{fill: #f5eaea;}	
+
+#map > svg > g > g > path.country_Egypt 
+{fill: #f6ebeb;}	
+
+#map > svg > g > g > path.country_DR Congo 
+{fill: #f6eded;}	
+
+#map > svg > g > g > path.country_Vietnam 
+{fill: #f7eded;}	
+
+#map > svg > g > g > path.country_Iran 
+{fill: #f7efef;}	
+
+#map > svg > g > g > path.country_Turkey 
+{fill: #f8efef;}	
+
+#map > svg > g > g > path.country_Germany 
+{fill: #f8f0f0;}	
+
+#map > svg > g > g > path.country_Thailand 
+{fill: #f9f2f2;}	
+
+#map > svg > g > g > path.country_United Kingdom 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_Tanzania 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_France 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_South Africa 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_Italy 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_England 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_Myanmar 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Kenya 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Colombia 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_South Korea 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Spain 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Uganda 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Sudan 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Argentina 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Algeria 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Iraq 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Afghanistan 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Poland 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Ukraine 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Canada 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Morocco 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Saudi Arabia 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Angola 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Uzbekistan 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Peru 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Malaysia 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Yemen 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Ghana 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Mozambique 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Nepal 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Madagascar 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Venezuela 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Ivory Coast 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Cameroon 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Niger 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Australia 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_North Korea 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Taiwan 
+{fill: #fdfafa;}	
+
+#map > svg > g > g > path.country_Burkina Faso 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Mali 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Syria 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Sri Lanka 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Malawi 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Zambia 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Romania 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Chile 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Kazakhstan 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Ecuador 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Guatemala 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Chad 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Somalia 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Netherlands 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Senegal 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Cambodia 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Zimbabwe 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Guinea 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Rwanda 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Benin 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Burundi 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Tunisia 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Bolivia 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Belgium 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Haiti 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Jordan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Dominican Republic 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Cuba 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_South Sudan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Sweden 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Czech Republic 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Honduras 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Greece 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Azerbaijan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Portugal 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Papua New Guinea 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Hungary 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Tajikistan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Belarus 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_United Arab Emirates 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Israel 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Austria 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Togo 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Switzerland 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Sierra Leone 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Laos 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Hong Kong 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Serbia 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Nicaragua 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Libya 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Bulgaria 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Paraguay 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Kyrgyzstan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Turkmenistan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_El Salvador 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Singapore 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Republic of the Congo 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Denmark 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Slovakia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Central African Republic 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Finland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Scotland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lebanon 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Norway 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Liberia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Palestine 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_New Zealand 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Costa Rica 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Ireland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Mauritania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Oman 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Panama 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Kuwait 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Croatia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Georgia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Eritrea 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Uruguay 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Mongolia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Moldova 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Puerto Rico 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Bosnia And Herzegovina 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Wales 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Albania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Jamaica 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Armenia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lithuania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Gambia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Qatar 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Botswana 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Namibia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Gabon 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lesotho 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Slovenia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Guinea Bissau 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_North Macedonia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Latvia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Kosovo 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Equatorial Guinea 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Trinidad And Tobago 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Bahrain 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Timor Leste 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Estonia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mauritius 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cyprus 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Eswatini 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Djibouti 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Reunion 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Fiji 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Comoros 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guyana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bhutan 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Solomon Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Luxembourg 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Montenegro 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Suriname 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cape Verde 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Western Sahara 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Malta 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Maldives 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Brunei 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bahamas 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Belize 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guadeloupe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Iceland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Martinique 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vanuatu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mayotte 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_French Guiana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Barbados 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Sao Tome And Principe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Samoa 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Lucia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Kiribati 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Grenada 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Micronesia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Seychelles 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tonga 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Vincent And the Grenadines 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Antigua And Barbuda 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Andorra 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Dominica 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Greenland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Kitts And Nevis 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Marshall Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Liechtenstein 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Monaco 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_San Marino 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Palau 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Nauru 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tuvalu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vatican City 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_China 
+{fill: #8b0000;}	
+
+#map > svg > g > g > path.country_India 
+{fill: #8b0101;}	
+
+#map > svg > g > g > path.country_United States 
+{fill: #e3c2c2;}	
+
+#map > svg > g > g > path.country_Indonesia 
+{fill: #e8cdcd;}	
+
+#map > svg > g > g > path.country_Pakistan 
+{fill: #ebd4d4;}	
+
+#map > svg > g > g > path.country_Nigeria 
+{fill: #edd7d7;}	
+
+#map > svg > g > g > path.country_Brazil 
+{fill: #edd8d8;}	
+
+#map > svg > g > g > path.country_Bangladesh 
+{fill: #f1e0e0;}	
+
+#map > svg > g > g > path.country_Russia 
+{fill: #f3e5e5;}	
+
+#map > svg > g > g > path.country_Mexico 
+{fill: #f4e8e8;}	
+
+#map > svg > g > g > path.country_Japan 
+{fill: #f5e9e9;}	
+
+#map > svg > g > g > path.country_Ethiopia 
+{fill: #f5e9e9;}	
+
+#map > svg > g > g > path.country_Philippines 
+{fill: #f5eaea;}	
+
+#map > svg > g > g > path.country_Egypt 
+{fill: #f6ebeb;}	
+
+#map > svg > g > g > path.country_DR Congo 
+{fill: #f6eded;}	
+
+#map > svg > g > g > path.country_Vietnam 
+{fill: #f7eded;}	
+
+#map > svg > g > g > path.country_Iran 
+{fill: #f7efef;}	
+
+#map > svg > g > g > path.country_Turkey 
+{fill: #f8efef;}	
+
+#map > svg > g > g > path.country_Germany 
+{fill: #f8f0f0;}	
+
+#map > svg > g > g > path.country_Thailand 
+{fill: #f9f2f2;}	
+
+#map > svg > g > g > path.country_United Kingdom 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_Tanzania 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_France 
+{fill: #f9f3f3;}	
+
+#map > svg > g > g > path.country_South Africa 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_Italy 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_England 
+{fill: #faf4f4;}	
+
+#map > svg > g > g > path.country_Myanmar 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Kenya 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Colombia 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_South Korea 
+{fill: #faf5f5;}	
+
+#map > svg > g > g > path.country_Spain 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Uganda 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Sudan 
+{fill: #fbf6f6;}	
+
+#map > svg > g > g > path.country_Argentina 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Algeria 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Iraq 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Afghanistan 
+{fill: #fbf7f7;}	
+
+#map > svg > g > g > path.country_Poland 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Ukraine 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Canada 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Morocco 
+{fill: #fbf8f8;}	
+
+#map > svg > g > g > path.country_Saudi Arabia 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Angola 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Uzbekistan 
+{fill: #fcf8f8;}	
+
+#map > svg > g > g > path.country_Peru 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Malaysia 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Yemen 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Ghana 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Mozambique 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Nepal 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Madagascar 
+{fill: #fcf9f9;}	
+
+#map > svg > g > g > path.country_Venezuela 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Ivory Coast 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Cameroon 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Niger 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Australia 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_North Korea 
+{fill: #fcfafa;}	
+
+#map > svg > g > g > path.country_Taiwan 
+{fill: #fdfafa;}	
+
+#map > svg > g > g > path.country_Burkina Faso 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Mali 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Syria 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Sri Lanka 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Malawi 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Zambia 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Romania 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Chile 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Kazakhstan 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Ecuador 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Guatemala 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Chad 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Somalia 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Netherlands 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Senegal 
+{fill: #fdfbfb;}	
+
+#map > svg > g > g > path.country_Cambodia 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Zimbabwe 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Guinea 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Rwanda 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Benin 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Burundi 
+{fill: #fdfcfc;}	
+
+#map > svg > g > g > path.country_Tunisia 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Bolivia 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Belgium 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Haiti 
+{fill: #fefcfc;}	
+
+#map > svg > g > g > path.country_Jordan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Dominican Republic 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Cuba 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_South Sudan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Sweden 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Czech Republic 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Honduras 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Greece 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Azerbaijan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Portugal 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Papua New Guinea 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Hungary 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Tajikistan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Belarus 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_United Arab Emirates 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Israel 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Austria 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Togo 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Switzerland 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Sierra Leone 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Laos 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Hong Kong 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Serbia 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Nicaragua 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Libya 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Bulgaria 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Paraguay 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Kyrgyzstan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Turkmenistan 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_El Salvador 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Singapore 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Republic of the Congo 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Denmark 
+{fill: #fefdfd;}	
+
+#map > svg > g > g > path.country_Slovakia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Central African Republic 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Finland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Scotland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lebanon 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Norway 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Liberia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Palestine 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_New Zealand 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Costa Rica 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Ireland 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Mauritania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Oman 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Panama 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Kuwait 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Croatia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Georgia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Eritrea 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Uruguay 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Mongolia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Moldova 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Puerto Rico 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Bosnia And Herzegovina 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Wales 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Albania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Jamaica 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Armenia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lithuania 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Gambia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Qatar 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Botswana 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Namibia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Gabon 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Lesotho 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Slovenia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Guinea Bissau 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_North Macedonia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Latvia 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Kosovo 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Equatorial Guinea 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Trinidad And Tobago 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Bahrain 
+{fill: #fefefe;}	
+
+#map > svg > g > g > path.country_Timor Leste 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Estonia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mauritius 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cyprus 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Eswatini 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Djibouti 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Reunion 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Fiji 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Comoros 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guyana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bhutan 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Solomon Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Luxembourg 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Montenegro 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Suriname 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Cape Verde 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Western Sahara 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Malta 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Maldives 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Brunei 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Bahamas 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Belize 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Guadeloupe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Iceland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Martinique 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vanuatu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Mayotte 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_French Guiana 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Barbados 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Sao Tome And Principe 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Samoa 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Lucia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Kiribati 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Grenada 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Micronesia 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Seychelles 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tonga 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Vincent And the Grenadines 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Antigua And Barbuda 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Andorra 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Dominica 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Greenland 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Saint Kitts And Nevis 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Marshall Islands 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Liechtenstein 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Monaco 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_San Marino 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Palau 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Nauru 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Tuvalu 
+{fill: #ffffff;}	
+
+#map > svg > g > g > path.country_Vatican City 
+{fill: #ffffff;}	
