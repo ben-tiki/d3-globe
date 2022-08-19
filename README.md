@@ -1,4 +1,4 @@
-# Draggable 3D Globe.
+# Draggable 3D Globe
 Using d3 library to generate a choropleth map on a rotating draggable globe
 
 
