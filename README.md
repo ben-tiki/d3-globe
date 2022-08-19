@@ -9,7 +9,12 @@ In order to use your own information, please update the world_population.csv. Th
 
 ## Personalization:
 The color palette can be updating by changing the #5c1010 hex code
-![image](https://user-images.githubusercontent.com/101474762/184656572-124dac83-8d93-43eb-98dd-4f375cc4e6cd.png)
+```javascript
+// creates color palette based on the max and min values
+            let colorPalette = d3.scaleLinear()
+            .domain([minValue, maxValue])
+            .range(["#ffffff", "#5c1010"]);
+```
 
 Globe dragging and rotating speed can be updated by modyfing the following variable
 ![image](https://user-images.githubusercontent.com/101474762/184656880-757dae39-be8b-4a59-b94d-3390eedbc5a0.png)
