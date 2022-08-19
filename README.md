@@ -1,5 +1,5 @@
 # Draggable 3D Globe
-Using d3 library to generate a choropleth map on a rotating draggable globe
+Using d3 library to generate a choropleth map on a rotating draggable globe.
 
 
 ![d3_globe](https://user-images.githubusercontent.com/101474762/184650956-5d405a46-2acb-4dae-acce-b794c1488818.gif)
@@ -24,4 +24,25 @@ Globe dragging and rotating speed can be updated by modyfing the following varia
 ```
 
 Tootlip values can be modyfied by updating the following code block
-![image](https://user-images.githubusercontent.com/101474762/184656972-460ef65e-e5a0-4d16-a31c-d6eb233d7198.png)
+
+```javascript
+// adding the data to the tooltip with desired formatting
+                tooltip.html(
+
+                    "<b>" + country_name + "</b>" + " " + 
+                    // open flag icon based on the country name
+                    "<img src='https://countryflagsapi.com/png/" + country_code + "'" + "width=" + "20" + "height=" + "15" + "margin-top=100px" + ">" +
+                    "<br/>" +
+                    "<br/>" +
+                    "Rank: " + country_ranking + 
+                    "<br/>" +
+                    "Population: " + country_population +
+                    "<br/>" +
+                    "Density: " + country_density +
+                    "<br/>" +
+                    "Area: " + country_area
+                        
+                        )
+            }
+            )
+```
