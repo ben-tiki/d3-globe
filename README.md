@@ -17,7 +17,11 @@ The color palette can be updating by changing the #5c1010 hex code
 ```
 
 Globe dragging and rotating speed can be updated by modyfing the following variable
-![image](https://user-images.githubusercontent.com/101474762/184656880-757dae39-be8b-4a59-b94d-3390eedbc5a0.png)
+
+```javascript
+ // defining the rotation and dragging sensitivity of the globe
+            const sensitivity = 60
+```
 
 Tootlip values can be modyfied by updating the following code block
 ![image](https://user-images.githubusercontent.com/101474762/184656972-460ef65e-e5a0-4d16-a31c-d6eb233d7198.png)
