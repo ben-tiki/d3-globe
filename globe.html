@@ -1,17 +1,38 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A visualization of the world population in 2021.">
     <link rel="stylesheet" href="css/style.css">
     <title>World Population</title>
-    <!-- make the page icon a globe -->
-    <link rel="icon" href="images/globe.ico">
+    <link rel="icon" href="img/globe.ico">
 </head>
 <body>
-    <h1>2021 World Population Visualization</h1>
-    <div id="map" style="width: 100%;"></div>
+    <div id="header">
+        <h1 id="page-title">2021 World Population Visualization</h1>
+        <div id="color-scale"></div>
+    </div>
+    
+    <div id="globe-container"></div>
+
+    <div id="tooltip" style="display: none;">
+        <div id="name-flag-container">
+            <b><span id="tooltip-country-name"></span></b>
+            <img id="tooltip-flag"></img>
+        </div>
+        Ranking: <span id="tooltip-rank"></span>
+        <br/>
+        Population: <span id="tooltip-population"></span>
+        <br/>
+        Density: <span id="tooltip-density"></span>
+        <br/>
+        Area: <span id="tooltip-area"></span>
+    </div>
+
+    <!-- IMPORT D3 V.5 -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    <script src="javascript/index.js"></script>
+    <script src="js/index.js" defer></script>
 </body>
 </html>

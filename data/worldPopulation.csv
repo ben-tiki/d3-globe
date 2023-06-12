@@ -1,0 +1,210 @@
+rank,country,population,area,population_number,alpha3_code,population_density
+1,China,1.43 billion,9.71 million km2,1425887337,CHN,146.89 per km2
+2,India,1.42 billion,3.29 million km2,1417173173,IND,431.07 per km2
+3,United States,338.29 million,9.37 million km2,338289857,USA,36.09 per km2
+4,Indonesia,275.5 million,1.9 million km2,275501339,IDN,144.65 per km2
+5,Pakistan,235.82 million,881.91 thousand km2,235824862,PAK,267.4 per km2
+6,Nigeria,218.54 million,923.77 thousand km2,218541212,NGA,236.58 per km2
+7,Brazil,215.31 million,8.52 million km2,215313498,BRA,25.28 per km2
+8,Bangladesh,171.19 million,147.57 thousand km2,171186372,BGD,1160.04 per km2
+9,Russia,144.71 million,17.1 million km2,144713314,RUS,8.46 per km2
+10,Mexico,127.5 million,1.96 million km2,127504125,MEX,64.91 per km2
+11,Japan,123.95 million,377.93 thousand km2,123951692,JPN,327.98 per km2
+12,Ethiopia,123.38 million,1.1 million km2,123379924,ETH,111.73 per km2
+13,Philippines,115.56 million,342.35 thousand km2,115559009,PHL,337.54 per km2
+14,Egypt,110.99 million,1.0 million km2,110990103,EGY,110.72 per km2
+15,DR Congo,99.01 million,2.34 million km2,99010212,COD,42.22 per km2
+16,Vietnam,98.19 million,331.21 thousand km2,98186856,VNM,296.45 per km2
+17,Iran,88.55 million,1.65 million km2,88550570,IRN,53.73 per km2
+18,Turkey,85.34 million,783.56 thousand km2,85341241,TUR,108.91 per km2
+19,Germany,83.37 million,357.11 thousand km2,83369843,DEU,233.45 per km2
+20,Thailand,71.7 million,513.12 thousand km2,71697030,THA,139.73 per km2
+21,United Kingdom,67.51 million,242.9 thousand km2,67508936,BGR,277.93 per km2
+22,Tanzania,65.5 million,945.09 thousand km2,65497748,TZA,69.3 per km2
+23,France,64.63 million,551.7 thousand km2,64626628,FRA,117.14 per km2
+24,South Africa,59.89 million,1.22 million km2,59893885,ZAF,49.05 per km2
+25,Italy,59.04 million,301.34 thousand km2,59037474,ITA,195.92 per km2
+26,England,57.37 million,130.28 thousand km2,57367811,GBR,440.35 per km2
+27,Myanmar,54.18 million,676.58 thousand km2,54179306,MMR,80.08 per km2
+28,Kenya,54.03 million,580.37 thousand km2,54027487,KEN,93.09 per km2
+29,Colombia,51.87 million,1.14 million km2,51874024,COL,45.43 per km2
+30,South Korea,51.82 million,100.21 thousand km2,51815810,KOR,517.07 per km2
+31,Spain,47.56 million,505.99 thousand km2,47558630,ESP,93.99 per km2
+32,Uganda,47.25 million,241.55 thousand km2,47249585,UGA,195.61 per km2
+33,Sudan,46.87 million,1.89 million km2,46874204,SDN,24.85 per km2
+34,Argentina,45.51 million,2.78 million km2,45510318,ARG,16.37 per km2
+35,Algeria,44.9 million,2.38 million km2,44903225,DZA,18.85 per km2
+36,Iraq,44.5 million,438.32 thousand km2,44496122,IRQ,101.52 per km2
+37,Afghanistan,41.13 million,652.23 thousand km2,41128771,AFG,63.06 per km2
+38,Poland,39.86 million,312.68 thousand km2,39857145,POL,127.47 per km2
+39,Ukraine,39.7 million,603.5 thousand km2,39701739,UKR,65.79 per km2
+40,Canada,38.45 million,9.98 million km2,38454327,CAN,3.85 per km2
+41,Morocco,37.46 million,446.55 thousand km2,37457971,MAR,83.88 per km2
+42,Saudi Arabia,36.41 million,2.15 million km2,36408820,SAU,16.94 per km2
+43,Angola,35.59 million,1.25 million km2,35588987,AGO,28.55 per km2
+44,Uzbekistan,34.63 million,447.4 thousand km2,34627652,UZB,77.4 per km2
+45,Peru,34.05 million,1.29 million km2,34049588,PER,26.49 per km2
+46,Malaysia,33.94 million,330.8 thousand km2,33938221,MYS,102.59 per km2
+47,Yemen,33.7 million,527.97 thousand km2,33696614,YEM,63.82 per km2
+48,Ghana,33.48 million,238.53 thousand km2,33475870,GHA,140.34 per km2
+49,Mozambique,32.97 million,801.59 thousand km2,32969518,MOZ,41.13 per km2
+50,Nepal,30.55 million,147.18 thousand km2,30547580,NPL,207.55 per km2
+51,Madagascar,29.61 million,587.04 thousand km2,29611714,MDG,50.44 per km2
+52,Venezuela,28.3 million,916.45 thousand km2,28301696,VEN,30.88 per km2
+53,Ivory Coast,28.16 million,322.46 thousand km2,28160542,CIV,87.33 per km2
+54,Cameroon,27.91 million,475.44 thousand km2,27914536,CMR,58.71 per km2
+55,Niger,26.21 million,1.27 million km2,26207977,NER,20.69 per km2
+56,Australia,26.18 million,7.69 million km2,26177413,AUS,3.4 per km2
+57,North Korea,26.07 million,120.54 thousand km2,26069416,PRK,216.28 per km2
+58,Taiwan,23.89 million,36.19 thousand km2,23893394,TWN,660.17 per km2
+59,Burkina Faso,22.67 million,272.97 thousand km2,22673762,BFA,83.06 per km2
+60,Mali,22.59 million,1.24 million km2,22593590,MLI,18.22 per km2
+61,Syria,22.13 million,185.18 thousand km2,22125249,SYR,119.48 per km2
+62,Sri Lanka,21.83 million,65.61 thousand km2,21832143,LKA,332.76 per km2
+63,Malawi,20.41 million,118.48 thousand km2,20405317,MWI,172.22 per km2
+64,Zambia,20.02 million,752.61 thousand km2,20017675,ZMB,26.6 per km2
+65,Romania,19.66 million,238.39 thousand km2,19659267,ROU,82.47 per km2
+66,Chile,19.6 million,756.1 thousand km2,19603733,CHL,25.93 per km2
+67,Kazakhstan,19.4 million,2.72 million km2,19397998,KAZ,7.12 per km2
+68,Ecuador,18.0 million,276.84 thousand km2,18001000,ECU,65.02 per km2
+69,Guatemala,17.84 million,108.89 thousand km2,17843908,GTM,163.87 per km2
+70,Chad,17.72 million,1.28 million km2,17723315,TCD,13.8 per km2
+71,Somalia,17.6 million,637.66 thousand km2,17597511,SOM,27.6 per km2
+72,Netherlands,17.56 million,41.85 thousand km2,17564014,NLD,419.69 per km2
+73,Senegal,17.32 million,196.72 thousand km2,17316449,SEN,88.02 per km2
+74,Cambodia,16.77 million,181.03 thousand km2,16767842,KHM,92.62 per km2
+75,Zimbabwe,16.32 million,390.76 thousand km2,16320537,ZWE,41.77 per km2
+76,Guinea,13.86 million,245.86 thousand km2,13859341,GIN,56.37 per km2
+77,Rwanda,13.78 million,26.34 thousand km2,13776698,RWA,523.07 per km2
+78,Benin,13.35 million,112.62 thousand km2,13352864,BEN,118.56 per km2
+79,Burundi,12.89 million,27.83 thousand km2,12889576,BDI,463.09 per km2
+80,Tunisia,12.36 million,163.61 thousand km2,12356117,TUN,75.52 per km2
+81,Bolivia,12.22 million,1.1 million km2,12224110,BOL,11.13 per km2
+82,Belgium,11.66 million,30.53 thousand km2,11655930,BEL,381.81 per km2
+83,Haiti,11.58 million,27.75 thousand km2,11584996,HTI,417.48 per km2
+84,Jordan,11.29 million,89.34 thousand km2,11285869,JOR,126.32 per km2
+85,Dominican Republic,11.23 million,48.67 thousand km2,11228821,DOM,230.71 per km2
+86,Cuba,11.21 million,109.88 thousand km2,11212191,CUB,102.04 per km2
+87,South Sudan,10.91 million,619.75 thousand km2,10913164,SDS,17.61 per km2
+88,Sweden,10.55 million,450.3 thousand km2,10549347,SWE,23.43 per km2
+89,Czech Republic,10.49 million,78.86 thousand km2,10493986,CZE,133.06 per km2
+90,Honduras,10.43 million,112.49 thousand km2,10432860,HND,92.74 per km2
+91,Greece,10.38 million,131.99 thousand km2,10384971,GRC,78.68 per km2
+92,Azerbaijan,10.36 million,86.6 thousand km2,10358074,AZE,119.61 per km2
+93,Portugal,10.27 million,92.09 thousand km2,10270865,PRT,111.53 per km2
+94,Papua New Guinea,10.14 million,462.84 thousand km2,10142619,PNG,21.91 per km2
+95,Hungary,9.97 million,93.03 thousand km2,9967308,HUN,107.14 per km2
+96,Tajikistan,9.95 million,143.1 thousand km2,9952787,TJK,69.55 per km2
+97,Belarus,9.53 million,207.6 thousand km2,9534954,BLR,45.93 per km2
+98,United Arab Emirates,9.44 million,83.6 thousand km2,9441129,ARE,112.93 per km2
+99,Israel,9.04 million,20.77 thousand km2,9038309,ISR,435.16 per km2
+100,Austria,8.94 million,83.87 thousand km2,8939617,AUT,106.59 per km2
+101,Togo,8.85 million,56.78 thousand km2,8848699,TGO,155.83 per km2
+102,Switzerland,8.74 million,41.28 thousand km2,8740472,CHE,211.72 per km2
+103,Sierra Leone,8.61 million,71.74 thousand km2,8605718,SLE,119.96 per km2
+104,Laos,7.53 million,236.8 thousand km2,7529475,LAO,31.8 per km2
+105,Hong Kong,7.49 million,1104 km2,7488865,HKG,6783.39 per km2
+106,Serbia,7.22 million,88.36 thousand km2,7221365,SRB,81.73 per km2
+107,Nicaragua,6.95 million,130.37 thousand km2,6948392,NIC,53.3 per km2
+108,Libya,6.81 million,1.76 million km2,6812341,LBY,3.87 per km2
+109,Bulgaria,6.78 million,110.88 thousand km2,6781953,BGR,61.17 per km2
+110,Paraguay,6.78 million,406.75 thousand km2,6780744,PRY,16.67 per km2
+111,Kyrgyzstan,6.63 million,199.95 thousand km2,6630623,KGZ,33.16 per km2
+112,Turkmenistan,6.43 million,488.1 thousand km2,6430770,TKM,13.18 per km2
+113,El Salvador,6.34 million,21.04 thousand km2,6336392,SLV,301.15 per km2
+114,Singapore,5.98 million,710 km2,5975689,SGP,8416.46 per km2
+115,Republic of the Congo,5.97 million,342.0 thousand km2,5970424,COG,17.46 per km2
+116,Denmark,5.88 million,43.09 thousand km2,5882261,DNK,136.5 per km2
+117,Slovakia,5.64 million,49.04 thousand km2,5643453,SVK,115.09 per km2
+118,Central African Republic,5.58 million,622.98 thousand km2,5579144,CAF,8.96 per km2
+119,Finland,5.54 million,338.42 thousand km2,5540745,FIN,16.37 per km2
+120,Scotland,5.5 million,77.93 thousand km2,5504651,GBR,70.63 per km2
+121,Lebanon,5.49 million,10.45 thousand km2,5489739,LBN,525.23 per km2
+122,Norway,5.43 million,323.8 thousand km2,5434319,NOR,16.78 per km2
+123,Liberia,5.3 million,111.37 thousand km2,5302681,LBR,47.61 per km2
+124,Palestine,5.25 million,6220 km2,5250072,PSE,844.06 per km2
+125,New Zealand,5.19 million,270.47 thousand km2,5185288,NZL,19.17 per km2
+126,Costa Rica,5.18 million,51.1 thousand km2,5180829,CRI,101.39 per km2
+127,Ireland,5.02 million,70.27 thousand km2,5023109,IRL,71.48 per km2
+128,Mauritania,4.74 million,1.03 million km2,4736139,MRT,4.6 per km2
+129,Oman,4.58 million,309.5 thousand km2,4576298,OMN,14.79 per km2
+130,Panama,4.41 million,75.42 thousand km2,4408581,PAN,58.46 per km2
+131,Kuwait,4.27 million,17.82 thousand km2,4268873,KWT,239.58 per km2
+132,Croatia,4.03 million,56.59 thousand km2,4030358,HRV,71.22 per km2
+133,Georgia,3.74 million,69.7 thousand km2,3744385,GEO,53.72 per km2
+134,Eritrea,3.68 million,117.6 thousand km2,3684032,ERI,31.33 per km2
+135,Uruguay,3.42 million,181.03 thousand km2,3422794,URY,18.91 per km2
+136,Mongolia,3.4 million,1.56 million km2,3398366,MNG,2.17 per km2
+137,Moldova,3.27 million,33.85 thousand km2,3272996,MDA,96.7 per km2
+138,Puerto Rico,3.25 million,8870 km2,3252407,PRI,366.67 per km2
+139,Bosnia And Herzegovina,3.23 million,51.21 thousand km2,3233526,BIH,63.14 per km2
+140,Wales,3.19 million,20.78 thousand km2,3193665,GBR,153.7 per km2
+141,Albania,2.84 million,28.75 thousand km2,2842321,ALB,98.87 per km2
+142,Jamaica,2.83 million,10.99 thousand km2,2827377,JAM,257.24 per km2
+143,Armenia,2.78 million,29.74 thousand km2,2780469,ARM,93.48 per km2
+144,Lithuania,2.75 million,65.3 thousand km2,2750055,LTU,42.11 per km2
+145,Gambia,2.71 million,10.69 thousand km2,2705992,GMB,253.16 per km2
+146,Qatar,2.7 million,11.59 thousand km2,2695122,QAT,232.62 per km2
+147,Botswana,2.63 million,582.0 thousand km2,2630296,BWA,4.52 per km2
+148,Namibia,2.57 million,825.62 thousand km2,2567012,NAM,3.11 per km2
+149,Gabon,2.39 million,267.67 thousand km2,2388992,GAB,8.93 per km2
+150,Lesotho,2.31 million,30.36 thousand km2,2305825,LSO,75.96 per km2
+151,Slovenia,2.12 million,20.27 thousand km2,2119844,SVN,104.56 per km2
+152,Guinea Bissau,2.11 million,36.12 thousand km2,2105566,GNB,58.29 per km2
+153,North Macedonia,2.09 million,25.71 thousand km2,2093599,MKD,81.42 per km2
+154,Latvia,1.85 million,64.56 thousand km2,1850651,LVA,28.67 per km2
+155,Kosovo,1.8 million,10.89 thousand km2,1802250,OSA,165.54 per km2
+156,Equatorial Guinea,1.67 million,28.05 thousand km2,1674908,GNQ,59.71 per km2
+157,Trinidad And Tobago,1.53 million,5130 km2,1531044,TTO,298.45 per km2
+158,Bahrain,1.47 million,765 km2,1472233,BHR,1924.49 per km2
+159,Timor Leste,1.34 million,14.87 thousand km2,1341296,TLS,90.18 per km2
+160,Estonia,1.33 million,45.23 thousand km2,1326062,EST,29.32 per km2
+161,Mauritius,1.3 million,2040 km2,1299469,MUS,636.99 per km2
+162,Cyprus,1.25 million,9251 km2,1251488,CYP,135.28 per km2
+163,Eswatini,1.2 million,17.36 thousand km2,1201670,SWZ,69.2 per km2
+164,Djibouti,1.12 million,23.2 thousand km2,1120849,DJI,48.31 per km2
+165,Reunion,974.05 thousand,2511 km2,974052,REU,387.91 per km2
+166,Fiji,929.77 thousand,18.27 thousand km2,929766,FAR,50.88 per km2
+167,Comoros,836.77 thousand,1862 km2,836774,COM,449.4 per km2
+168,Guyana,808.73 thousand,214.97 thousand km2,808726,GUY,3.76 per km2
+169,Bhutan,782.46 thousand,38.39 thousand km2,782455,BTN,20.38 per km2
+170,Solomon Islands,724.27 thousand,28.9 thousand km2,724273,SLB,25.06 per km2
+171,Luxembourg,647.6 thousand,2586 km2,647599,LUX,250.42 per km2
+172,Montenegro,627.08 thousand,13.81 thousand km2,627082,MNE,45.4 per km2
+173,Suriname,618.04 thousand,163.82 thousand km2,618040,SUR,3.77 per km2
+174,Cape Verde,593.15 thousand,4033 km2,593149,CPV,147.07 per km2
+175,Western Sahara,575.99 thousand,266.0 thousand km2,575986,ESH,2.17 per km2
+176,Malta,533.29 thousand,316 km2,533286,MLT,1687.61 per km2
+177,Maldives,523.79 thousand,300 km2,523787,MDV,1745.96 per km2
+178,Brunei,449.0 thousand,5765 km2,449002,BRN,77.88 per km2
+179,Bahamas,409.98 thousand,13.94 thousand km2,409984,BHS,29.4 per km2
+180,Belize,405.27 thousand,22.97 thousand km2,405272,BLZ,17.65 per km2
+181,Guadeloupe,395.75 thousand,1628 km2,395752,GLP,243.09 per km2
+182,Iceland,372.9 thousand,103.0 thousand km2,372899,ISL,3.62 per km2
+183,Martinique,367.51 thousand,1128 km2,367507,MTQ,325.8 per km2
+184,Vanuatu,326.74 thousand,12.19 thousand km2,326740,VUT,26.81 per km2
+185,Mayotte,326.1 thousand,374 km2,326101,MYT,871.93 per km2
+186,French Guiana,304.56 thousand,83.53 thousand km2,304557,GUF,3.65 per km2
+187,Barbados,281.63 thousand,430 km2,281635,BRB,654.97 per km2
+188,Sao Tome And Principe,227.38 thousand,964 km2,227380,STP,235.87 per km2
+189,Samoa,222.38 thousand,2842 km2,222382,WSM,78.25 per km2
+190,Saint Lucia,179.86 thousand,616 km2,179857,LCA,291.98 per km2
+191,Kiribati,131.23 thousand,811 km2,131232,KIR,161.82 per km2
+192,Grenada,125.44 thousand,344 km2,125438,GRD,364.65 per km2
+193,Micronesia,114.16 thousand,702 km2,114164,FSM,162.63 per km2
+194,Seychelles,107.12 thousand,452 km2,107118,SYC,236.99 per km2
+195,Tonga,106.86 thousand,747 km2,106858,TON,143.05 per km2
+196,Saint Vincent And the Grenadines,103.95 thousand,389 km2,103948,VCT,267.22 per km2
+197,Antigua And Barbuda,93.76 thousand,442 km2,93763,ATG,212.13 per km2
+198,Andorra,79.82 thousand,468 km2,79824,AND,170.56 per km2
+199,Dominica,72.74 thousand,751 km2,72737,DMA,96.85 per km2
+200,Greenland,56.47 thousand,2.17 million km2,56466,GRL,0.03 per km2
+201,Saint Kitts And Nevis,47.66 thousand,261 km2,47657,KNA,182.59 per km2
+202,Marshall Islands,41.57 thousand,181 km2,41569,MHL,229.66 per km2
+203,Liechtenstein,39.33 thousand,160 km2,39327,LIE,245.79 per km2
+204,Monaco,36.47 thousand,2 km2,36469,MCO,18234.5 per km2
+205,San Marino,33.66 thousand,61 km2,33660,SMR,551.8 per km2
+206,Palau,18.05 thousand,459 km2,18055,PLW,39.34 per km2
+207,Nauru,12.67 thousand,21 km2,12668,NRU,603.24 per km2
+208,Tuvalu,11.31 thousand,26 km2,11312,TUV,435.08 per km2
+209,Vatican City,510,1 km2,510,VA,510.0 per km2
