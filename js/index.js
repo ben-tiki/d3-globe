@@ -12,7 +12,7 @@
 // ----------------------------------------
 const GEO_JSON_PATH = "data/globeCoordinates.json";
 const DATA_CSV_PATH = "data/worldPopulation.csv";
-const FLAG_PATH = "img/flags/";
+const FLAG_PATH = "../img/flags/";
 
 //  CLOROPLETH MAP VARIABLES
 // ----------------------------------------
