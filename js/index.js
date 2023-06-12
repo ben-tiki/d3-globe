@@ -12,7 +12,7 @@
 // ----------------------------------------
 const GEO_JSON_PATH = "data/globeCoordinates.json";
 const DATA_CSV_PATH = "data/worldPopulation.csv";
-const FLAG_PATH = "/img/flags/";
+const FLAG_PATH = "img/flags/";
 
 //  CLOROPLETH MAP VARIABLES
 // ----------------------------------------
@@ -26,7 +26,7 @@ const COLOR_SCALE = "linear"; // "linear" or "log"
 const GLOBE_CONTAINER = d3.select("#globe-container");
 let GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
 let GLOBE_HEIGHT = GLOBE_CONTAINER.node().getBoundingClientRect().height;
-let GLOBE_RADIUS = GLOBE_HEIGHT / 2.8;
+let GLOBE_RADIUS = GLOBE_HEIGHT / 2.5;
 const ROTATION_SESNIITIVITY = 60;
 
 // MAIN FUNCTION
