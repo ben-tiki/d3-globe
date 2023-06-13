@@ -28,6 +28,7 @@ let GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
 let GLOBE_HEIGHT = GLOBE_CONTAINER.node().getBoundingClientRect().height;
 let GLOBE_RADIUS = GLOBE_HEIGHT / 2.8;
 const ROTATION_SESNIITIVITY = 60;
+let rotationTimer;
 
 // MAIN FUNCTION
 // ----------------------------------------
@@ -107,7 +108,7 @@ async function drawGlobe() {
             toolTip.transition()
                 .style("display", "none");
         });
-
+    
     // Optional rotate
     rotateGlobe(geoProjection, globeSvg, geoPathGenerator);
 };
@@ -128,7 +129,10 @@ function createColorPalette(data) {
 };
 
 function createDrag(geoProjection, globeSvg, geoPathGenerator) {
-    return d3.drag().on("drag", () => {
+    return d3.drag().on("start", () => {
+        rotationTimer.stop();
+    })
+    .on("drag", () => {
         const rotate = geoProjection.rotate()
         const rotationAdjustmentFactor = ROTATION_SESNIITIVITY / geoProjection.scale()
 
@@ -139,11 +143,15 @@ function createDrag(geoProjection, globeSvg, geoPathGenerator) {
 
         geoPathGenerator = d3.geoPath().projection(geoProjection)
         globeSvg.selectAll("path").attr("d", geoPathGenerator)
+    })
+    .on("end", () => {
+        rotateGlobe(geoProjection, globeSvg, geoPathGenerator);
     });
 };
 
+
 function rotateGlobe(geoProjection, globeSvg, geoPathGenerator) {
-    d3.timer(function (elapsed) {
+    rotationTimer = d3.timer(function (elapsed) {
         const rotate = geoProjection.rotate()
         const rotationAdjustmentFactor = ROTATION_SESNIITIVITY / geoProjection.scale()
         geoProjection.rotate([
@@ -181,9 +189,9 @@ function drawLegend(colorPalette) {
 
     // Set color background gradient
     colorScale.style("background", `linear-gradient(to right, ${COLOR_RANGE[0]}, ${COLOR_RANGE[1]})`);
-    
+
     const legendWidth = colorScale.node().getBoundingClientRect().width;
-    
+
     const xScale = d3.scaleLinear()
         .range([0, legendWidth])
 

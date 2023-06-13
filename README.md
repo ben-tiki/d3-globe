@@ -1,50 +1,32 @@
-# Draggable 3D Globe
-Using d3 library to generate a choropleth map on a rotating draggable globe.
+# Interactive 3D Globe with d3.js
+This projects implements a cloropleth map in a 3D globe using d3.js. The map is interactive and allows the user to drag and rotate the globe and hover over a country to display its details. The visualization can be tailored to any data set by updating the CSV file in the data folder.
+
+### Main Features
+1. Tooltip that displays the country name, population, and flag.
+2. Drag and rotate features for the globe.
+3. Cloropleth map that displays the data of each country.
+4. Mouseover and mouseout events that highlight the country and display its details.
+5. Detailed comments and well-structured code for easy understanding and modification.
+
+### Demo
 
 
-![d3_globe](https://user-images.githubusercontent.com/101474762/184650956-5d405a46-2acb-4dae-acce-b794c1488818.gif)
+### Data Sources
+ - data/globeCoordinates.json - Contains the geographical coordinates needed for the globe
+ - data/worldPopulation.csv - CSV file containing data about world population
+ - img/flags/ - Contains flags of different countries
 
-## Usage:
-Git clone the repository and open the globe.html file.
+### Customization:
+**Color Palette**: The color palette can be updated by changing the values in COLOR_RANGE constant. In this example, the colors of the map are calculated based on the population_number column in the CSV data.
 
-In order to use your own information, please update the world_population.csv. The colors are caclulated with the population_number column. <br> If including new information in the csv, column names from the javascript file may need to be updated. 
+**Globe Interaction**: The sensitivity of the globe's drag and rotate features can be changed by adjusting the ROTATION_SESNIITIVITY constant.
 
-## Personalization:
-The color palette can be updating by changing the #5c1010 hex code
-```javascript
-// creates color palette based on the max and min values
-            let colorPalette = d3.scaleLinear()
-            .domain([minValue, maxValue])
-            .range(["#ffffff", "#5c1010"]);
-```
+**Tooltip Information**: If you want to include new information in the tooltip, you can update the countryDict object inside the mouseover event handler.
 
-Globe dragging and rotating speed can be updated by modyfing the following variable
+**CSV Data**: If you want to use your own information, please update the worldPopulation.csv file. If including new information in the CSV, column names from the JavaScript file may need to be updated.
 
-```javascript
- // defining the rotation and dragging sensitivity of the globe
-            const sensitivity = 60
-```
+**Scale**: The scale of the cloropleth map (linear/logarithmic) can be changed by updating the COLOR_SCALE constant.
 
-Tootlip values can be modyfied by updating the following code block
 
-```javascript
-// adding the data to the tooltip with desired formatting
-                tooltip.html(
-
-                    "<b>" + country_name + "</b>" + " " + 
-                    // open flag icon based on the country name
-                    "<img src='https://countryflagsapi.com/png/" + country_code + "'" + "width=" + "20" + "height=" + "15" + "margin-top=100px" + ">" +
-                    "<br/>" +
-                    "<br/>" +
-                    "Rank: " + country_ranking + 
-                    "<br/>" +
-                    "Population: " + country_population +
-                    "<br/>" +
-                    "Density: " + country_density +
-                    "<br/>" +
-                    "Area: " + country_area
-                        
-                        )
-            }
-            )
-```
+### Acknowledgments
+This project is based on the original code by Michael Keith, which can be found [here](https://observablehq.com/@michael-keith/draggable-globe-in-d3). 
