@@ -27,7 +27,7 @@ const GLOBE_CONTAINER = d3.select("#globe-container");
 let GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
 let GLOBE_HEIGHT = GLOBE_CONTAINER.node().getBoundingClientRect().height;
 let GLOBE_RADIUS = GLOBE_HEIGHT / 2.8;
-const ROTATION_SESNIITIVITY = 60;
+const ROTATION_SENSITIVITY = 60;
 let rotationTimer;
 
 // MAIN FUNCTION
@@ -134,7 +134,7 @@ function createDrag(geoProjection, globeSvg, geoPathGenerator) {
     })
     .on("drag", () => {
         const rotate = geoProjection.rotate()
-        const rotationAdjustmentFactor = ROTATION_SESNIITIVITY / geoProjection.scale()
+        const rotationAdjustmentFactor = ROTATION_SENSITIVITY / geoProjection.scale()
 
         geoProjection.rotate([
             rotate[0] + d3.event.dx * rotationAdjustmentFactor,
@@ -153,7 +153,7 @@ function createDrag(geoProjection, globeSvg, geoPathGenerator) {
 function rotateGlobe(geoProjection, globeSvg, geoPathGenerator) {
     rotationTimer = d3.timer(function (elapsed) {
         const rotate = geoProjection.rotate()
-        const rotationAdjustmentFactor = ROTATION_SESNIITIVITY / geoProjection.scale()
+        const rotationAdjustmentFactor = ROTATION_SENSITIVITY / geoProjection.scale()
         geoProjection.rotate([
             rotate[0] - 1 * rotationAdjustmentFactor,
             rotate[1]

@@ -19,7 +19,7 @@ This projects implements a cloropleth map in a 3D globe using d3.js. The map is 
 ### Customization:
 **Color Palette**: The color palette can be updated by changing the values in COLOR_RANGE constant. In this example, the colors of the map are calculated based on the population_number column in the CSV data.
 
-**Globe Interaction**: The sensitivity of the globe's drag and rotate features can be changed by adjusting the ROTATION_SESNIITIVITY constant.
+**Globe Interaction**: The sensitivity of the globe's drag and rotate features can be changed by adjusting the ROTATION_SENSITIVITY constant.
 
 **Tooltip Information**: If you want to include new information in the tooltip, you can update the countryDict object inside the mouseover event handler.
 
