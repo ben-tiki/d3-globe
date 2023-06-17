@@ -23,19 +23,24 @@ body {
      height: 15px;
      margin: 0 auto;
      border: 1px solid #ccc;
-     margin-bottom: 1.5em;
  }
 
  #globe-container {
      position: absolute;
-     top: 0;
-     left: 0;
+     top: 55%;
+     left: 50%;
+     transform: translate(-50%, -50%);
      height: 100vh;
      width: 100vw;
      display: flex;
      justify-content: center;
      align-items: center;
-     padding-top: 70px;
+}
+
+#globe-container svg {
+    position: absolute; 
+    top: 0;
+    left: 0;
 }
 
 #globe {

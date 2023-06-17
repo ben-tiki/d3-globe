@@ -27,7 +27,13 @@ const GLOBE_CONTAINER = d3.select("#globe-container");
 let GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
 let GLOBE_HEIGHT = GLOBE_CONTAINER.node().getBoundingClientRect().height;
 let GLOBE_RADIUS = GLOBE_HEIGHT / 2.8;
+let GLOBE_CENTER = [GLOBE_WIDTH / 2, GLOBE_HEIGHT / 2];
+
+
+// INTERACTION VARIABLES
+// ----------------------------------------
 const ROTATION_SENSITIVITY = 60;
+const ZOOM_SENSITIVITY = 0.5;
 let rotationTimer;
 
 // MAIN FUNCTION
@@ -45,14 +51,15 @@ async function drawGlobe() {
         .scale(GLOBE_RADIUS)
         .center([0, 0])
         .rotate([0, -25])
-        .translate([GLOBE_WIDTH / 2, GLOBE_HEIGHT / 2]);
+        .translate(GLOBE_CENTER);
+    
+    const initialScale = geoProjection.scale();
 
     // Append svg to the container
     const globeSvg = d3.select("#globe-container")
         .append("svg")
         .attr("width", GLOBE_WIDTH)
         .attr("height", GLOBE_HEIGHT);
-
 
     drawLegend(globeSvg, colorPalette);
 
@@ -71,6 +78,9 @@ async function drawGlobe() {
 
     // Creating function to update the geoProjection
     globeSvg.call(createDrag(geoProjection, globeSvg, geoPathGenerator));
+
+    // Creating function to zoom in and out
+    configureZoom(globeSvg, initialScale, geoProjection);
 
     // Read geoJson data and draw the globe (country by country)
     globeMap.append("g")
@@ -111,6 +121,10 @@ async function drawGlobe() {
     
     // Optional rotate
     rotateGlobe(geoProjection, globeSvg, geoPathGenerator);
+
+    window.addEventListener("resize", () => {
+        resizeGlobe(geoProjection, globeSvg, contextData, geoPathGenerator);
+    });
 };
 
 // HELPER FUNCTIONS
@@ -151,6 +165,7 @@ function createDrag(geoProjection, globeSvg, geoPathGenerator) {
 
 
 function rotateGlobe(geoProjection, globeSvg, geoPathGenerator) {
+    if (rotationTimer) rotationTimer.stop();
     rotationTimer = d3.timer(function (elapsed) {
         const rotate = geoProjection.rotate()
         const rotationAdjustmentFactor = ROTATION_SENSITIVITY / geoProjection.scale()
@@ -205,6 +220,47 @@ function drawLegend(colorPalette) {
     legendSvg.append('g')
         .attr("transform", `translate(0, ${legendHeight / 10})`)
         .call(legendAxis);
+};
+
+function configureZoom(globeSvg, initialScale, geoProjection) {
+    globeSvg.call(d3.zoom()
+        .on('zoom', () => {
+            if (d3.event.transform.k > ZOOM_SENSITIVITY) {
+                let newScale = initialScale * d3.event.transform.k;
+                geoProjection.scale(newScale);
+                let path = d3.geoPath().projection(geoProjection);
+                globeSvg.selectAll("path").attr("d", path);
+                globeSvg.selectAll("circle").attr("d", path);
+                globeSvg.selectAll("circle").attr("r", geoProjection.scale());
+            } else {
+                d3.event.transform.k = ZOOM_SENSITIVITY;
+            }
+        }));
+};
+
+
+function resizeGlobe(geoProjection, globeSvg, globeCanvas, geoPathGenerator) {
+    GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
+    GLOBE_HEIGHT = GLOBE_CONTAINER.node().getBoundingClientRect().height;
+
+    GLOBE_CENTER = [GLOBE_WIDTH / 2, GLOBE_HEIGHT / 2];
+
+    geoProjection
+        .scale(GLOBE_RADIUS)
+        .translate(GLOBE_CENTER);
+
+    // Update the svg and canvas dimensions
+    globeSvg.attr("width", GLOBE_WIDTH).attr("height", GLOBE_HEIGHT);
+
+    // Redraw the globe and markers
+    globeSvg.selectAll("path").attr("d", geoPathGenerator);
+
+    // Center the circle
+    globeSvg.select("#globe")
+        .attr("cx", GLOBE_WIDTH / 2)
+        .attr("cy", GLOBE_HEIGHT / 2)
+        .attr("r", geoProjection.scale());
+
 };
 
 // INIT
