@@ -1,5 +1,5 @@
 # Interactive 3D Globe made with d3.js
-This project creates a choropleth map on a 3D globe using d3.js. Users can interactively drag, rotate the globe, and hover over countries to display its information. You can customize the visualization with any dataset by updating the CSV file in the data folder.
+This project implements a choropleth map on a 3D globe using d3.js. Users can interactively drag, rotate the globe, and hover over countries to display its information. You can customize the visualization with any dataset by updating the CSV file in the data folder.
 
 ### Main Features
 1. Tooltip showing country name, information, and flag.
