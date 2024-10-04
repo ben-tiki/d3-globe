@@ -2,7 +2,7 @@
 // Source: https://observablehq.com/@michael-keith/draggable-globe-in-d3
 
 // This version of the code introduces the following modifications:
-// 1. A tooltip for displaying the country"s name, population, density, area, and flag.
+// 1. A tooltip for displaying the country's name, population, density, area, and flag.
 // 2. Retrieval and display of each country"s flag within the tooltip.
 // 3. Added csv with country data in order to create the cloropleth map.
 // 4. Mouseover and mouseout events for highlighting the selected country.
@@ -237,7 +237,6 @@ function configureZoom(globeSvg, initialScale, geoProjection) {
             }
         }));
 };
-
 
 function resizeGlobe(geoProjection, globeSvg, globeCanvas, geoPathGenerator) {
     GLOBE_WIDTH = GLOBE_CONTAINER.node().getBoundingClientRect().width;
