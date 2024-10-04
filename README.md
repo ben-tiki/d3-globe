@@ -1,5 +1,5 @@
 # Interactive 3D Globe made with d3.js
-This project implements a choropleth map on a 3D globe using d3.js. Users can interactively drag, rotate the globe, and hover over countries to display its information. You can customize the visualization with any dataset by updating the CSV file in the data folder.
+This project implements a choropleth map on a rotating 3D globe using d3.js. Users can interactively drag, rotate the globe, and hover over the countries to display its information. The visualization can be customized with any dataset by updating the CSV file in the data folder.
 
 ### Main Features
 1. Tooltip showing country name, information, and flag.
@@ -12,20 +12,20 @@ This project implements a choropleth map on a 3D globe using d3.js. Users can in
 https://github.com/ben-tiki/d3-globe/assets/101474762/0860f38e-3a8a-4f9a-9c89-394bd1976716
 
 ### Data Sources
- - data/globeCoordinates.json - Contains the geographical coordinates needed for the globe
+ - data/globeCoordinates.json - Contains the geographical coordinates needed for displaying the globe
  - data/worldPopulation.csv - CSV file containing data about world population
  - img/flags/ - Contains flags of different countries
 
 ### Customization:
-**Color Palette**: The color palette can be updated by changing the values in COLOR_RANGE constant. In this example, the colors of the map are calculated based on the population_number column in the CSV data.
+**Color Palette**: The color palette can be updated by changing the values in the COLOR_RANGE constant. In this example, the colors of the map are calculated based on the population_number column in the CSV data.
 
-**Globe Interaction**: Adjust the ROTATION_SENSITIVITY constant to change drag and rotate sensitivity.
+**Globe Interaction**: Rotation and drag sensitivity can be adjusted by modifying the ROTATION_SENSITIVITY constant.
 
-**Tooltip Information**: Update the countryDict object in the mouseover event handler to include new tooltip info.
+**Tooltip Information**: Update the countryDict object in the mouseover event handler to include new tooltip information.
 
-**CSV Data**: If you want to use your own data, update the worldPopulation.csv file. If including new information in the CSV, column names from the JavaScript file may need to be updated.
+**CSV Data**: The CSV data can be updated by replacing the worldPopulation.csv file in the data folder. If including new information in the CSV, column names from the JavaScript file may need to be updated.
 
-**Scale**: The scale of the cloropleth map (linear/logarithmic) can be changed by updating the COLOR_SCALE constant.
+**Scale**: The scale of the choropleth map (linear/logarithmic) can be changed by updating the COLOR_SCALE constant.
 
 ### Acknowledgments
-This project is based on the original code by Michael Keith, which can be found [here](https://observablehq.com/@michael-keith/draggable-globe-in-d3). 
+This project is based on the original code by Michael Keith, which can be found [here](https://observablehq.com/@michael-keith/draggable-globe-in-d3).
